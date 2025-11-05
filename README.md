@@ -1,2 +1,2 @@
 # Fruit Stand
-An interactive data visualization built with plotly.js.
+An interactive 3D bar chart built with Plotly.js serving up Orange, Apple, Banana, and Grape categories. Colors hand-picked for high-contrast accessibility.
