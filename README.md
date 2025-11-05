@@ -1,2 +1,2 @@
-# fruit-stand
-An interactive data visualization built with d3.js.
+# Fruit Stand
+An interactive data visualization built with plotly.js.
